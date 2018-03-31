@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522007188983,
+            "changeTime": 1522007188983,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522007188984,
+            "changeTime": 1522007188984,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522007353447,
+            "changeTime": 1522007353447,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522007188985,
+            "changeTime": 1522007188985,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522007353452,
+            "changeTime": 1522007353452,
+            "contentHash": "f35d7df9043b8eb0f9d49a7ec1f11c6a974a0822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\classes\\test.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\classes\\test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54,
+            "modifiedTime": 1522007353453,
+            "changeTime": 1522007353453,
+            "contentHash": "09a8e36e6643518cd5fd1b301681f74862884804",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\classes\\test.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject\\force-app\\main\\default\\classes\\test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1522007353450,
+            "changeTime": 1522007353450,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\SFDX\\myproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\SFDX\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522007275976,
+            "changeTime": 1522007275976,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
